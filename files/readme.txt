@@ -1,2 +1,2 @@
-I am learning git
+I am learning git now!
 this is a file
